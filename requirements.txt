@@ -1,0 +1,5 @@
+pypdf
+langchain
+sentence_transformers
+qdrant-client[fastembed]
+flask

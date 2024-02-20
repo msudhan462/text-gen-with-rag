@@ -1,0 +1,1 @@
+API_KEY = "xyz_qdrant_cluster_key" #os.environ['API_KEY']
